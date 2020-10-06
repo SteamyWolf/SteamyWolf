@@ -1,6 +1,9 @@
 ![Angular Logo](https://sigao.io/wp-content/uploads/2018/08/angular-card.png)
 
+Woah :flushed: Welcome to my Github Profile!
 
+Looking to see some of my best projects? :grin: Try these:
+  - [Fitness App](https://github.com/SteamyWolf/fitness-app1)
 <!--
 **SteamyWolf/SteamyWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
