@@ -1,4 +1,5 @@
-### Hi there 👋
+![Angular Logo](https://sigao.io/wp-content/uploads/2018/08/angular-card.png)
+
 
 <!--
 **SteamyWolf/SteamyWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
