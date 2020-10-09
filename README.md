@@ -3,6 +3,7 @@
 # Woah :flushed: Welcome to my Github Profile!
 
 #### Looking to see some of my best projects? :grin: Try these:
+  - [Pokemon Cards Angular App](https://github.com/SteamyWolf/Pokemon-Cards-Angular)
   - [Angular Fitness App](https://github.com/SteamyWolf/fitness-app1)
   - [Legend of Zelda Amiibo API](https://github.com/SteamyWolf/ui-components-api-data-RIA)
   - [Angular Recipe App](https://github.com/SteamyWolf/RecipeAppProject-Angular)
