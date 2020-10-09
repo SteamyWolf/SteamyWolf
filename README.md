@@ -19,7 +19,7 @@
   - [YouTube](https://www.youtube.com/channel/UCsvpFVx_x_Rj118UOshOuTQ)
   
  
-### In also used to be way into Cinematography. Check this out:
+### I also used to be way into Cinematography. Check this out:
   - [Cinematography Site](https://wyatthunterallan.wixsite.com/allan)
   
 <!--
