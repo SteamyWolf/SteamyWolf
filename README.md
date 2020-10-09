@@ -15,11 +15,11 @@
   - [Learning to Learn](https://medium.com/wyatt-allan)
   
   
-### Guess what! I traveled the world :airplane: Check out my YouTube channel :movie_camera:
+### Guess what! I traveled the world :airplane: Check out my YouTube channel :sailboat:
   - [YouTube](https://www.youtube.com/channel/UCsvpFVx_x_Rj118UOshOuTQ)
   
  
-### I also used to be way into Cinematography. Check this out:
+### I also used to be way into Cinematography. Check this out: :movie_camera:
   - [Cinematography Site](https://wyatthunterallan.wixsite.com/allan)
   
 <!--
