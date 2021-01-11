@@ -1,6 +1,6 @@
 ![Error Gif](https://res.cloudinary.com/rangle/image/fetch/w_700/https://rangleio.ghost.io/content/images/2016/01/angular-2-michael-blog.gif)
 
-# Woah :flushed: Welcome to my Github Profile!
+# Welcome to my Github Profile!
 
 #### Looking to see some of my best projects? :grin: Try these:
   - [Pokemon Cards Angular App](https://github.com/SteamyWolf/Pokemon-Cards-Angular)
